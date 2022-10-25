@@ -22,10 +22,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 @AutoConfigureMockMvc
 @Transactional
 public class EventControllerIT {
-
 	@Autowired
 	private MockMvc mockMvc;
-	
 	@Autowired
 	private ObjectMapper objectMapper;
 	
