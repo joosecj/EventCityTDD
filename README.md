@@ -10,7 +10,7 @@ O Desafio proposta pela [DevSuperior](https://devsuperior.com.br/) teve como obj
 
 Experimente live demo.
 <p align='center'> 
-   <img src="https://s4.gifyu.com/images/2022-10-27-19-58-51-1.gif" alt="2022-10-27-19-58-51-1.gif" border="0" />
+   <img src="https://s4.gifyu.com/images/2022-10-27-19-58-51-1.gif" alt="2022-10-27-19-58-51-1.gif" />
 </p>
 
 [![2022-10-27-19-58-51-1.gif](https://s4.gifyu.com/images/2022-10-27-19-58-51-1.gif)](https://gifyu.com/image/SEpTh)
