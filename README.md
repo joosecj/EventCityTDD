@@ -9,11 +9,12 @@ O Desafio proposta pela [DevSuperior](https://devsuperior.com.br/) teve como obj
 <h2>Veja o projeto</h2>
 
 Experimente live demo.
+<p align='center'> 
+   <img src="https://s4.gifyu.com/images/2022-10-27-19-58-51-1.gif" alt="2022-10-27-19-58-51-1.gif" border="0" />
+</p>
 
-### Construção
 
-
-<h2>Como criar e executar o PersonAPI localmente</h2>
+<h2>Como criar e executar o Persont-City localmente</h2>
 
 Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fácil. Certifique-se de ter o Git, JDK17 e banco PostgreSQL instalados e siga as instruções abaixo. Precisa de informações adicionais? entre em contato no e-mail josecarloscjj@gmail.com 
 (Estas instruções pressupõem que você esteja instalando como um usuário root.)
