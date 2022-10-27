@@ -13,8 +13,12 @@ Experimente live demo.
    <img src="https://s4.gifyu.com/images/2022-10-27-19-58-51-1.gif" alt="2022-10-27-19-58-51-1.gif" border="0" />
 </p>
 
+[![2022-10-27-19-58-51-1.gif](https://s4.gifyu.com/images/2022-10-27-19-58-51-1.gif)](https://gifyu.com/image/SEpTh)
 
-<h2>Como criar e executar o Persont-City localmente</h2>
+<img src="https://s4.gifyu.com/images/2022-10-27-19-58-51-1.gif"/>  
+
+
+<h2>Como criar e executar o Event-City localmente</h2>
 
 Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fácil. Certifique-se de ter o Git, JDK17 e banco PostgreSQL instalados e siga as instruções abaixo. Precisa de informações adicionais? entre em contato no e-mail josecarloscjj@gmail.com 
 (Estas instruções pressupõem que você esteja instalando como um usuário root.)
