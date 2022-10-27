@@ -13,11 +13,7 @@ Experimente live demo.
    <img src="https://s4.gifyu.com/images/2022-10-27-19-58-51-1.gif" alt="2022-10-27-19-58-51-1.gif" />
 </p>
 
-[](https://s4.gifyu.com/images/2022-10-27-19-58-51-1.gif)
-
-<img src="https://s4.gifyu.com/images/2022-10-27-19-58-51-1.gif"/>  
-
-![](https://i.imgur.com/QMgdvJ6.gif)
+![](https://s4.gifyu.com/images/2022-10-27-19-58-51-1.gif)
 
 
 <h2>Como criar e executar o Event-City localmente</h2>
