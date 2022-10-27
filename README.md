@@ -4,13 +4,13 @@
     <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
 </p>    
-O Desafio proposta pela [DevSuperior](https://devsuperior.com.br/) teve como objetivo implementar as funcionalidades necessárias para que os testes do projeto já expecificados passem, usando o principio do TDD(Test Driven Development).
+O Desafio proposta pela DevSuperior teve como objetivo implementar as funcionalidades necessárias para que os testes do projeto já expecificados passem, usando o principio do TDD(Test Driven Development).
 
 <h2>Veja o projeto</h2>
 
-Experimente live demo.
+Experimente live demo [aqui](https://i.imgur.com/DfLfi42.gif).
 
-![](https://i.imgur.com/DfLfi42.gif)
+[](https://i.imgur.com/DfLfi42.gif)
 
 
 <h2>Como criar e executar o Event-City localmente</h2>
