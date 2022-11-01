@@ -10,6 +10,8 @@ O Desafio proposta pela DevSuperior teve como objetivo implementar as funcionali
 
 Experimente live demo [aqui](https://i.imgur.com/DfLfi42.gif).
 
+![](https://i.imgur.com/DfLfi42.gif)
+
 <p align='center'> <img src="https://i.imgur.com/DfLfi42.gif"/></p>
 
 
