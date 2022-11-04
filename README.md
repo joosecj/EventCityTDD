@@ -10,7 +10,9 @@ O Desafio proposto pela DevSuperior teve como objetivo implementar as funcionali
 
 Experimente live demo [aqui](https://i.imgur.com/DfLfi42.gif).
 
-![](http://imageshack.com/a/img924/1599/97tibd.gif)
+[](http://imageshack.com/a/img924/1599/97tibd.gif)
+
+<img src="https://i.imgur.com/DfLfi42.gif"/> 
 
 <h2>Como criar e executar o Event-City localmente</h2>
 
